@@ -1,2 +1,3 @@
 # Trabalhos.Pensamento.Computacional
-Atividades envolvidas no laboratorio de informatica 
+Atividades desenvolvidas no laboratorio de informatica 
+Terceiro Trimestre 
